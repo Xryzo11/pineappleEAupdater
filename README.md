@@ -12,6 +12,6 @@ Installation:
 Instructions:
 - Place update.bat in an empty directory
 - Run update.bat to download/update to the newest pineappleEA
-- Don't remove or add any files to that directory
-- Don't rename any files or directories
+- Don't add any files or directories to that directory
+- Don't remove or rename any files from that directory
 - Don't remove or rename the 'yuzu-windows-msvc-early-access' directory
