@@ -7,7 +7,7 @@ Prerequisites:
 
 Installation:
 - Download and run install.bat
-- Follow the instructions
+- Follow the instructions given in the batch file
 
 Instructions:
 - Place update.bat in a empty directory
