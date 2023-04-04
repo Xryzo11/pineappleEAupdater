@@ -1,5 +1,5 @@
 # pineappleEAupdater
-A pineappleEA updater for Windows 10/11
+A pineappleEA updater for Windows
 
 Prerequisites:
 - Windows 10/11
