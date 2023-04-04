@@ -3,7 +3,7 @@ A pineappleEA updater for Windows
 
 Prerequisites:
 - Windows 10/11
-- winget installed (should be preinstalled with Windows)
+- winget (should be preinstalled with Windows)
 
 Installation:
 - Download and run install.bat
