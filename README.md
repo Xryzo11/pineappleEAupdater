@@ -13,7 +13,7 @@ Installation:
 - Download and run install.bat
 - Follow the instructions given in the batch file
 
-Instructions:
+Usage:
 - Place update.bat in an empty directory
 - Run update.bat to download/update to the newest pineappleEA
 - Don't add any files or directories to that directory
