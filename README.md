@@ -1,6 +1,9 @@
 # pineappleEAupdater
 A pineappleEA updater for Windows
 
+Download:
+Click [Here](https://github.com/Xryzo11/pineappleEAupdater/releases] to download the newest release
+
 Prerequisites:
 - Windows 10/11
 - powershell (should be preinstalled with Windows)
