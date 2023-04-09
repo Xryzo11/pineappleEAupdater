@@ -3,6 +3,7 @@ A pineappleEA updater for Windows
 
 Prerequisites:
 - Windows 10/11
+- powershell (should be preinstalled with Windows)
 - winget (should be preinstalled with Windows)
 
 Installation:
